@@ -1,0 +1,17 @@
+.calculator {
+  margin: 20px;
+}
+
+fieldset {
+  margin: 20px 0;
+}
+
+.boil {
+  font-weight: bold;
+  color: green;
+}
+
+.notBoil {
+  font-weight: bold;
+  color: red;
+}

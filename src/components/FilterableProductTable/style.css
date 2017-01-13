@@ -1,0 +1,14 @@
+.filterable-table {
+  width: 230px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 8px;
+  box-shadow: 5px 3px 2px #9E9E9E;
+  background: rgba(0, 188, 212, 0.45);
+}
+
+.search-bar {
+  width: 95%;
+  padding: 5px;
+}
